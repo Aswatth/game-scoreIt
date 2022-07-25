@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8be621a0277e4e408b0ac74e0e58b95, type: 3}
+  m_Name: BasketBall 4
+  m_EditorClassIdentifier: 
+  material: {fileID: 2100000, guid: 35b0ebd9f1f14314a8301019830f1e80, type: 2}
+  pointsToUnlock: 25
+  perfectsToUnlock: 0
+  isUnlocked: 0
+  isEquipped: 0
